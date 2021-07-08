@@ -25,5 +25,5 @@
 
 
 
-[thumbnail]: https://github.com/MdNaina/galaxy/blob/main/screenshots/thumbnail.png "thumbnail"
+[thumbnail]: https://github.com/MdNaina/galaxy/blob/master/screenshots/thumbnail.png "thumbnail"
 
