@@ -2,7 +2,7 @@
 
 ## Introduction
 
-#######  This is game called galaxy a cross platform game, developed using kivy library , this project one of my favourite because it so clean
+######  This is game called galaxy a cross platform game, developed using kivy library , this project one of my favourite because it so clean
 
 ![galaxy][thumbnail]
 
